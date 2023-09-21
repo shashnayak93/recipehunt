@@ -1,0 +1,1 @@
+TASTY_API_KEY = "ab1773e9d3msha6481e1f732ced2p1354a9jsnd589e4c44c39"

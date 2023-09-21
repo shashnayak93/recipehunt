@@ -1,0 +1,18 @@
+.comments-box {
+  max-height: 200px;
+  max-width: 80vw;
+  margin-top: 2em;
+  overflow-y: auto;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+.top-picture {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.details-video {
+  max-width: 500px;
+  max-height: 500px;
+}
